@@ -1,4 +1,4 @@
-# Sherhone Grant - Exploring the Frontiers of Data Science and Beyond 🚀
+# The Locked Data Scientist - Exploring the Frontiers of Data Science and Beyond 🚀
 
 🔍 I possess a fervent interest in unraveling profound insights from intricate datasets through cutting-edge methodologies. My passion resides at the crossroads of data and problem-solving, and I derive immense satisfaction from deploying machine learning techniques to tackle real-world challenges.
 
