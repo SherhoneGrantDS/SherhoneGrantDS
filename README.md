@@ -22,7 +22,7 @@ Maintaining this repository is a deliberate effort to provide transparency into 
 ### Collaboration and Feedback
 I welcome collaboration and feedback! If you share an interest in Python, data management, or have insights to share, feel free to reach out. Whether you're a fellow developer, data scientist, or simply someone enthusiastic about Python projects, your input is valuable.
 
-### Project Spectrum
+## Project Spectrum
 The projects included in this repository span a spectrum from fundamental Python scripting to more complex applications, incorporating advanced database management functionalities. Each project is accompanied by detailed documentation, offering insights into the coding process, methodologies applied, and the rationale behind design decisions.
 
 💼 Enthusiastically embracing opportunities for connections and knowledge-sharing, I welcome collaborative discussions or projects aligning with my interests. If you share a similar passion for data science or have a project in mind, I invite you to connect with me on LinkedIn at [linkedin.com/in/sherhonegrant]. Let's establish connections, share knowledge, and embark on meaningful, data-driven endeavors together!
