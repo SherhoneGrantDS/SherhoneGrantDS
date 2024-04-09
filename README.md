@@ -9,7 +9,7 @@ In this repository, you'll find a curated collection of Python projects that I'v
 
 🌐 Currently immersed in the dynamic realm of data science, I am actively honing my expertise in advanced techniques like natural language processing and deep learning. The evolving nature of the field fuels my commitment to continuous learning, driving me to stay at the forefront of data science advancements.
 
-### Why Python Projects?
+## Why Python Projects?
 
 ### Skill Enhancement
 These projects serve as a personal playground for me to explore and deepen my understanding of Python, from basic concepts to advanced database management techniques. By engaging in a variety of projects, I aim to refine my skills, incorporating best practices and staying abreast of the latest trends in Python development.
